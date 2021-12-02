@@ -1,2 +1,2 @@
-# vagrant_example
-Provision a couple of Web and DB servers.
+# A Vagrantfile
+Provision a couple of Web and DB VMs.
